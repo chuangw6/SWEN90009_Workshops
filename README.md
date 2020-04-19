@@ -21,10 +21,10 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2020/subjects/swen90
 
 | Workshop | Topic | Date |
 | ------ | ------ |-----|
-| [Workshop 1]() | `Get Started & Tools`  | 9 Mar 2020 - 13 Mar 2020
-| [Workshop 2]() | `Requirements Engineering and Inception` | 16 Mar 2020 - 20 Mar 2020
-| [Workshop 3]() | `Goal Model` | 23 Mar 2020 - 3 Apr 2020
-| [Workshop 4]() | `Personas` | 20 Apr 2019 - 24 Apr 2019
+| [Workshop 1](https://github.com/chuangw46/SWEN90009_Workshops/blob/master/Workshop1_Get%20Started%20%26%20Tools.pdf) | `Get Started & Tools`  | 9 Mar 2020 - 13 Mar 2020
+| [Workshop 2](https://github.com/chuangw46/SWEN90009_Workshops/blob/master/Workshop2_Inception.pdf) | `Requirements Engineering and Inception` | 16 Mar 2020 - 20 Mar 2020
+| [Workshop 3](https://github.com/chuangw46/SWEN90009_Workshops/blob/master/Workshop3_Goal%20Model.pdf) | `Goal Model` | 23 Mar 2020 - 3 Apr 2020
+| [Workshop 4](https://github.com/chuangw46/SWEN90009_Workshops/blob/master/Workshop4_Personas.pdf) | `Personas` | 20 Apr 2019 - 24 Apr 2019
 | [Workshop 5]() | `` | 
 | [Workshop 6]() | `` | 
 | [Workshop 7]() | `` | 
@@ -46,4 +46,4 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2020/subjects/swen90
 
 ### **License**
 ---
-[![MIT license](https://github.com/chuangw46/SWEN90009_Workshops/blob/master/LICENSE)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/chuangw46/SWEN90009_Workshops/blob/master/LICENSE)
