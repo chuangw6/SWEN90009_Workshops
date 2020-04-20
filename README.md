@@ -9,7 +9,7 @@ This repository contains workshop slides and sample solutions of the subject [SW
 The slides and materials are developed by Chuang Wang, tutor & supervisor for SWEN90009 Semester1 2020
 
 ### **:clipboard:Course Info**
-
+---
 The aim of this subject is to give students an understanding of the theoretical and technical principles behind systems analysis and software requirements engineering, applying techniques in a real-world project environment to analyse the requirements for systems.
 
 The subject is core in the MC-ENG Master of Engineering (Software) degree.
