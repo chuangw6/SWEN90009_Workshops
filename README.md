@@ -2,7 +2,7 @@
 
 ### **:point_right:Purpose**
 ---
-This repository contains workshop slides and sample solutions of the subject [SWEN90009](https://handbook.unimelb.edu.au/2020/subjects/swen90009/assessment) Semester1 2020 given by Dr Eduardo Araujo Oliveira at [University of Melbourne](https://www.unimelb.edu.au/).
+This repository contains workshop slides and sample solutions of the subject [SWEN90009](https://handbook.unimelb.edu.au/2020/subjects/swen90009/assessment) Semester1 2020 given by [Dr Eduardo Araujo Oliveira](https://www.eduoliveira.com/) at [University of Melbourne](https://www.unimelb.edu.au/).
 
 ### **:running:Author**
 ---
