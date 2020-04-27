@@ -6,7 +6,7 @@ This repository contains workshop slides and sample solutions of the subject [SW
 
 ### **:running:Author**
 ---
-The slides and materials are developed by Chuang Wang, tutor & supervisor for SWEN90009 Semester1 2020
+The slides and materials are developed by [Chuang Wang](https://www.linkedin.com/in/chuangw/), tutor & supervisor for SWEN90009 Semester1 2020
 
 ### **:clipboard:Course Info**
 ---
