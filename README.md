@@ -24,9 +24,9 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2020/subjects/swen90
 | [Workshop 1](https://github.com/chuangw46/SWEN90009_Workshops/blob/master/Workshop1_Get%20Started%20%26%20Tools.pdf) | `Get Started & Tools`  | 9 Mar 2020 - 13 Mar 2020
 | [Workshop 2](https://github.com/chuangw46/SWEN90009_Workshops/blob/master/Workshop2_Inception.pdf) | `Requirements Engineering and Inception` | 16 Mar 2020 - 20 Mar 2020
 | [Workshop 3](https://github.com/chuangw46/SWEN90009_Workshops/blob/master/Workshop3_Goal%20Model.pdf) | `Goal Model` | 23 Mar 2020 - 3 Apr 2020
-| [Workshop 4](https://github.com/chuangw46/SWEN90009_Workshops/blob/master/Workshop4_Personas.pdf) | `Personas` | 20 Apr 2019 - 24 Apr 2019
-| [Workshop 5](https://github.com/chuangw46/SWEN90009_Workshops/blob/master/Workshop5_PaperPrototype.pdf) | `Paper Prototype` | 27 Apr 2019 - 1 May 2019
-| [Workshop 6]() | `` | 
+| [Workshop 4](https://github.com/chuangw46/SWEN90009_Workshops/blob/master/Workshop4_Personas.pdf) | `Personas` | 20 Apr 2020 - 24 Apr 2020
+| [Workshop 5](https://github.com/chuangw46/SWEN90009_Workshops/blob/master/Workshop5_PaperPrototype.pdf) | `Paper Prototype` | 27 Apr 2020 - 1 May 2020
+| [Workshop 6](https://github.com/chuangw46/SWEN90009_Workshops/blob/master/Workshop6_UserStories.pdf) | `User Stories` | 4 May 2020 - 8 May 2020
 | [Workshop 7]() | `` | 
 | [Workshop 8]() | `` | 
 | [Workshop 9]() | `` | 
